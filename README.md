@@ -25,7 +25,6 @@ While there are existing projects with similar objectives, our project different
 
 ## Data Sources
 
-### Condensed Data Sources
 - **Cryptocurrency Market Data**: Sources like CoinGecko and CoinMarketCap for market data, including historical prices and trading volumes.
 - **Macroeconomic Data**: Sources such as FRED and World Bank for economic indicators like interest rates, inflation, and GDP.
 - **Market Data**: Yahoo Finance and Alpha Vantage for data on stocks, bonds, exchange rates, and other financial instruments.
