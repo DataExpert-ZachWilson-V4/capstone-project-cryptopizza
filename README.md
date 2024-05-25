@@ -46,7 +46,7 @@ The architecture of the Crypto Price Prediction Project is designed to be modula
 4. **Workflow Orchestration**: Automate the entire pipeline using Apache Airflow.
 5. **Data Querying**: Use Trino to perform efficient and fast queries on the data stored in Iceberg tables.
 6. **Deep Learning (Future Integration)**: Plan to develop prediction models using Python, TensorFlow, and Keras.
-7. **Visualization**: Create dashboards and visualizations using tools like Grafana or Tableau.
+7. **Visualization**: Create dashboards and visualizations using tools like PowerBI or Tableau.
 
 ## Technologies Used
 
