@@ -91,3 +91,11 @@ The architecture includes the following components:
 ## Conceptual model
 ![image](https://github.com/DataExpert-ZachWilson-V4/capstone-project-cryptopizza/assets/168579210/1d2a79ac-ecb3-4d01-a3f5-7e7ef5d4c6c4)
 
+## Personal Note
+I am aware that this project is ambitious and covers a wide range of fields, from finance to data engineering and artificial intelligence. I recognize that I do not have all the resources and experience needed to fully develop a project of this scope on my own. However, I am committed to doing my best to produce quality work.
+
+My main goal is to learn and improve my skills in these areas, and most importantly, to have fun in the process. This project represents a stimulating challenge, and I hope the development journey will be enriching and rewarding.
+
+Thank you for your support and interest =)
+
+Ste
