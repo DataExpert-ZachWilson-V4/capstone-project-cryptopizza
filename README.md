@@ -34,11 +34,11 @@ While there are existing projects with similar objectives, our project different
 
 ## Motivation
 
-The motivation behind this project is to leverage the vast amount of available data to make accurate predictions in the highly volatile cryptocurrency market. By integrating diverse data sources and employing advanced data processing and analysis tools, we aim to provide valuable insights and predictions that can assist traders, investors, and analysts in making informed decisions. The inclusion of geopolitical and macroeconomic factors adds a unique dimension to our analysis, reflecting the real-world influences on the cryptocurrency market.
+The motivation behind this project is to leverage the vast amount of available data to make predictions in the highly volatile cryptocurrency market. By integrating diverse data sources and employing advanced data processing and analysis tools, we aim to provide valuable insights and predictions that can assist traders, investors, and analysts in making informed decisions. The inclusion of geopolitical and macroeconomic factors adds a unique dimension to our analysis, reflecting the real-world influences on the cryptocurrency market.
 
 ## Architecture
 
-The architecture of the Crypto Price Prediction Project is designed to be modular, scalable, and robust. It includes the following components:
+The architecture includes the following components:
 
 1. **Data Ingestion**: Collect data from various sources using APIs and web scraping tools.
 2. **Data Storage**: Store raw and processed data in Apache Iceberg tables.
@@ -55,7 +55,7 @@ The architecture of the Crypto Price Prediction Project is designed to be modula
 - **Apache Airflow**: A platform to programmatically author, schedule, and monitor workflows.
 - **DBT**: A tool for transforming data inside data warehouses more effectively.
 - **Python**: The primary programming language for data processing and deep learning.
-- **TensorFlow and Keras (Future Integration)**: Libraries for building and training deep learning models.
+- **TensorFlow and Keras**: Libraries for building and training deep learning models.
 - **PowerBI/Tableau**: Tools for data visualization and dashboard creation.
 
 ## Data Pipeline
@@ -87,3 +87,7 @@ The architecture of the Crypto Price Prediction Project is designed to be modula
 ### Deployment
 - Implement a pipeline to use the trained model for making predictions on new data.
 - Use visualization tools like PowerBI or Tableau to display the predictions and insights.
+
+## Conceptual model
+![image](https://github.com/DataExpert-ZachWilson-V4/capstone-project-cryptopizza/assets/168579210/1d2a79ac-ecb3-4d01-a3f5-7e7ef5d4c6c4)
+
