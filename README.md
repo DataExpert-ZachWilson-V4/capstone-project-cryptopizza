@@ -88,7 +88,7 @@ The architecture includes the following components:
 - Implement a pipeline to use the trained model for making predictions on new data.
 - Use visualization tools like PowerBI or Tableau to display the predictions and insights.
 
-## Conceptual model
+## Conceptual Model
 ![image](https://github.com/DataExpert-ZachWilson-V4/capstone-project-cryptopizza/assets/168579210/1d2a79ac-ecb3-4d01-a3f5-7e7ef5d4c6c4)
 
 ## Personal Note
